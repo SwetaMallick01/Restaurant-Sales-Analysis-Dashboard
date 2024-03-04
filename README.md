@@ -17,5 +17,5 @@ The objective of this dashboard is to provide insights into restaurant sales dat
 
 <img width="746" alt="Screenshot 2024-03-04 133638" src="https://github.com/SwetaMallick01/Restaurant-Sales-Analysis-Dashboard/assets/132562651/e8757cd4-4ec4-4396-a0d6-76a2610f7020">
 
-# Conclusion:
+# CONCLUSION:
 The Restaurant Sales Analysis Dashboard provides restaurant owners and stakeholders with actionable insights into sales performance and customer preferences. By leveraging the information presented in the dashboard, restaurants can optimize their strategies to increase revenue, improve customer satisfaction, and stay competitive in the market.
