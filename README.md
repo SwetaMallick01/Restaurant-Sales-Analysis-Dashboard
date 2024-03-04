@@ -12,7 +12,7 @@ The objective of this dashboard is to provide insights into restaurant sales dat
 ## PROCESS
 1. Data Collection: Obtain Zomato restaurant sales data for Bangalore, including information such as restaurant names, locations, cuisines, sales figures, etc.
 2. Data Preparation: Clean and preprocess the dataset, handling missing values, duplicates, and inconsistencies.
-3. Dashboard Creation: Develop an interactive dashboard using visualization tools like Tableau or Power BI to track and analyze online sales data. Include widgets and filters to enable user-driven exploration.
+3. Dashboard Creation: Develop an interactive dashboard using Power BI to track and analyze online sales data. Include widgets and filters to enable user-driven exploration.
 4. KPI Visualization: Display total revenue and average sales value prominently on the dashboard using appropriate visualizations such as line charts or KPI cards.
 
 ## DASHBOARD
