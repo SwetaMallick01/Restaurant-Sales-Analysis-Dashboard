@@ -10,6 +10,7 @@ The objective of this dashboard is to provide insights into restaurant sales dat
 4. Top-Performing Restaurants: Restaurants with the highest sales revenue.
 5. Checked on the different avenues of revenue income and then had filters on the same in order to check which cuisine performs the best in accordance to the avenue
 6. Checked on locations where people prefer a specifc avenue and cuisine over another. This allows the user of the dashboard to take informed decisions regarding the purchase of raw materials
+7. Displayed names of different cuisine types represented in the dataset, reflecting the diversity of offerings across restaurants by using word cloud.
 
 ## PROCESS
 1. Data Collection: Obtain Zomato restaurant sales data for Bangalore, including information such as restaurant names, locations, cuisines, sales figures, etc.
